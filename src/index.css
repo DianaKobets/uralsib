@@ -1,0 +1,76 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Основные стили */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+h1, h2 {
+  margin-bottom: 1rem;
+  color: #222;
+}
+
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-item {
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background: #fdfdfd;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.post-item:hover {
+  background-color: #f7f7f7;
+  transform: translateY(-2px);
+}
+
+.comment-list {
+  list-style: none;
+  padding: 0;
+}
+
+.comment-item {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border-left: 4px solid #007bff;
+  background: #f9f9f9;
+  border-radius: 4px;
+}
+
+.loading {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #666;
+}
