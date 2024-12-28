@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/uralsib/static/css/main.52a5cc15.css",
-    "main.js": "/uralsib/static/js/main.39fb5af3.js",
+    "main.js": "/uralsib/static/js/main.06b8bc66.js",
     "static/js/488.b8444dde.chunk.js": "/uralsib/static/js/488.b8444dde.chunk.js",
     "index.html": "/uralsib/index.html",
     "main.52a5cc15.css.map": "/uralsib/static/css/main.52a5cc15.css.map",
-    "main.39fb5af3.js.map": "/uralsib/static/js/main.39fb5af3.js.map",
+    "main.06b8bc66.js.map": "/uralsib/static/js/main.06b8bc66.js.map",
     "488.b8444dde.chunk.js.map": "/uralsib/static/js/488.b8444dde.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52a5cc15.css",
-    "static/js/main.39fb5af3.js"
+    "static/js/main.06b8bc66.js"
   ]
 }
